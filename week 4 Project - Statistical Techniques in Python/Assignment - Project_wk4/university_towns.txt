@@ -1,0 +1,21 @@
+Conclusion
+
+The result of our t-test shows us that we can confidently say that college towns were more resilient against the "Great Recession" starting in 2008. Our p-value fell well below the .01 threshold. This means that whether a city was a college town or not played a significant role in the change of its mean house price in the time spanning the start of the recession to the bottom of the recession.
+
+df = pd.read_csv('https://storage.googleapis.com/um_ds_intro/City_Zhvi_AllHomes.csv')
+
+
+Bringing model output to Life with Data Storytelling
+
+Interested in growing my network, Lay the foundations for a successful career by gaining invaluable experience and mentorship 
+A chance to speak to graduates who have recently joined Accenture. See if Accenture is the right fit for me as much as I am the right fit for them
+
+It was something like adding more to the stored procedure  we made the last day
+
+I think he said to create indexes and prepared statements of our own
+
+to create indexes on a function, you have to make sure that the function itself is in fact IMMUTABLE. 
+Otherwise PostgreSQL won’t create the index for you. The reason is simple: 
+PostgreSQL has to make sure that the content of the index is stable and 
+does not have to be changed over time if the underlying data is unchanged.
+
